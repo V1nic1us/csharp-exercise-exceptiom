@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-exercise-exceptiom", "csharp-exercise-exceptiom\csharp-exercise-exceptiom.csproj", "{BCDC04CD-A5D3-49BA-A31B-34A9AD155632}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCDC04CD-A5D3-49BA-A31B-34A9AD155632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDC04CD-A5D3-49BA-A31B-34A9AD155632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDC04CD-A5D3-49BA-A31B-34A9AD155632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDC04CD-A5D3-49BA-A31B-34A9AD155632}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0CE687E-15E7-433A-8050-26129D53A34F}
+	EndGlobalSection
+EndGlobal
