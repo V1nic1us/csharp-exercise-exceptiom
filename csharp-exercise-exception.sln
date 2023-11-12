@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-exercise-exceptiom", "csharp-exercise-exceptiom\csharp-exercise-exceptiom.csproj", "{BCDC04CD-A5D3-49BA-A31B-34A9AD155632}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-exercise-exception", "csharp-exercise-exceptiom\csharp-exercise-exception.csproj", "{BCDC04CD-A5D3-49BA-A31B-34A9AD155632}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
